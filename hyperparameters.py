@@ -1,0 +1,9 @@
+n_epoch = 100
+batch_size = 32
+n_T = 500
+device = "cuda:0"
+n_feat = 256
+lrate = 1e-4
+save_model = True
+samples_per_class = 500
+exp_classes = [8]
